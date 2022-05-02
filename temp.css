@@ -1,0 +1,26 @@
+@media all and (max-width: 968px) {
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+body {
+    bgcolor: #ff6f00;
+}
+.section-title {
+	font-size: 33px;
+	letter-spacing: 2px;
+	color: #fff;
+	background: #FF6F00;
+}
+.btn-dl {
+	color: cyan;
+	background: #000000;
+	box-shadow: 0 0 5px #33ffff,
+               0 0 10px #66ffff;
+    border-radius: 30px;
+    width: 50:
+    height: 20;
+    font-size: 20px;
+}
